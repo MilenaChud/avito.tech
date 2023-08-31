@@ -1,0 +1,15 @@
+2023-08-31 17:41:04,102 - base_helpers.BasePage - INFO - Opening url: https://www.avito.ru/ekaterinburg/odezhda_obuv_aksessuary/plate_hm_2999116301
+2023-08-31 17:41:36,165 - base_helpers.BasePage - INFO - Check if element with locator ('xpath', "//span[contains(text(), 'Добавить в избранное')]") is clickable
+2023-08-31 17:41:36,165 - base_helpers.BasePage - INFO - Check if element with locator ('xpath', "//span[contains(text(), 'Добавить в избранное')]") is clickable
+2023-08-31 17:41:37,067 - base_helpers.BasePage - INFO - Click element with locator ('xpath', "//span[contains(text(), 'Добавить в избранное')]")
+2023-08-31 17:41:37,067 - base_helpers.BasePage - INFO - Click element with locator ('xpath', "//span[contains(text(), 'Добавить в избранное')]")
+2023-08-31 17:41:37,068 - base_helpers.BasePage - INFO - Check if element with locator ('xpath', "//p[contains(text(), 'Добавлено')]") has required visibility
+2023-08-31 17:41:37,068 - base_helpers.BasePage - INFO - Check if element with locator ('xpath', "//p[contains(text(), 'Добавлено')]") has required visibility
+2023-08-31 17:41:37,615 - base_helpers.BasePage - INFO - Check if element with locator ('xpath', "//a[@title='Избранное']") is clickable
+2023-08-31 17:41:37,615 - base_helpers.BasePage - INFO - Check if element with locator ('xpath', "//a[@title='Избранное']") is clickable
+2023-08-31 17:41:39,026 - base_helpers.BasePage - INFO - Click element with locator ('xpath', "//a[@title='Избранное']")
+2023-08-31 17:41:39,026 - base_helpers.BasePage - INFO - Click element with locator ('xpath', "//a[@title='Избранное']")
+2023-08-31 17:41:39,027 - base_helpers.BasePage - INFO - Find visible elements with locator ('xpath', '//p/strong')
+2023-08-31 17:41:39,027 - base_helpers.BasePage - INFO - Find visible elements with locator ('xpath', '//p/strong')
+2023-08-31 17:41:39,059 - base_helpers.BasePage - INFO - Get element with text 'Платье H&M' from given list of WebElements
+2023-08-31 17:41:39,059 - base_helpers.BasePage - INFO - Get element with text 'Платье H&M' from given list of WebElements
